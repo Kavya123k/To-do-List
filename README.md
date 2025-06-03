@@ -37,3 +37,11 @@ Light/Dark Mode 🌙☀️
 This project is licensed under the MIT License.
 Feel free to fork it, customize it, and make it your own!
 
+## 📸 Screenshot
+
+Here’s what the app looks like in action:
+
+![To-Do List Screenshot](
+https://github.com/Kavya123k/To-do-List/blob/main/Screenshot%202025-06-03%20074716.png)
+
+
